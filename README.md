@@ -7,6 +7,8 @@ Python project built to quickly create, deploy, update, and remove servers for M
 * As a user, I want an intuitive and easy setup process to get the server up and running
 * As a user, I may want to add mods or a modding engine (i.e., forge) to the game
 
+* As a developer, I need cloud functionality that is not local on my machine. The application should exist to launch (call server-side scripts), close down, and view status of server. On the server side, existing Python scripts should be installed that will be called by the client .exe to start the server, return status and player count, etc.
+
 ## Projected Tasking
 * The Project will need Main to launch the actual application, as well as handle the I/O button logic displayed, config drop down, etc.
 * Project will need to pull in libraries for both AWS (Boto3) and Azure (Azure SDK). These will likely have their own config details, such as whether to use EC2 or Lightsail in AWS.
