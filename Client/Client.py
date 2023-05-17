@@ -1,0 +1,1 @@
+##Client Python script that will run GUI, ask status and player count, run local setup.
