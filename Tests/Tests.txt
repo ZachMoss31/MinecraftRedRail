@@ -1,0 +1,1 @@
+Wanting to setup automating testing that will run on dev builds in this folder.
