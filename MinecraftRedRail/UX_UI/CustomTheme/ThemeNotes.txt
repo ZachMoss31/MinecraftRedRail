@@ -1,0 +1,2 @@
+Create a custom theme that will feel like the UI in vanilla realms windows (pixelated, etc.)
+- all radial buttons and text box, cursor, etc should follow this theme

@@ -1,5 +1,6 @@
 # To run and install dependencies, use pip as listed below
 # pip install -r requirements.txt
 
-boto3==version
+boto3
+ttkbootstrap
 # TO DO:: Version of Boto3 being developed with and other dependencies
